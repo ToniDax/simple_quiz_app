@@ -2,12 +2,7 @@ import '../../../setup.dart';
 
 class ApiConstants {
   /// base Url
-  // static const String baseUrl = "localhost:8080";
-  // static const String baseUrl= "172.30.0.1:8080";
-  ///172.30.0.1
-  // static const String baseUrlLaptopId= "172.30.0.1:8080";
-  // static const String baseUrlWifiId = "10.10.2.123:8080";
-  // static const String baseUrl = "65c717aae7c384aada6e2dae.mockapi.io";
+
   static const String baseUrl = "7f3a-178-218-201-17.ngrok-free.app";
   ///https:///
 
